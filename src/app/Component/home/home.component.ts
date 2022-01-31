@@ -14,49 +14,49 @@ export class HomeComponent implements OnInit {
 
   bookList = [
     {
-      'bookImages':'./assets/bookImages/Image1.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image1.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image1.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image4.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image5.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image6.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image7.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
     },
     {
-      'bookImages':'./assets/bookImages/Image8.png',
+      'bookImages':'./assets/images/dontMakeMeThink.png',
       'bookName':'Don`t Make Me Think ',
       'bookAuthor':'by Steve King',
       'bookPrice':'1500',
